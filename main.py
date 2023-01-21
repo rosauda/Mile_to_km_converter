@@ -43,5 +43,3 @@ button = Button(text="Calculate", command=button_clicked)
 button.grid(column=1, row=3)
 
 window.mainloop()
-
-window.mainloop()
